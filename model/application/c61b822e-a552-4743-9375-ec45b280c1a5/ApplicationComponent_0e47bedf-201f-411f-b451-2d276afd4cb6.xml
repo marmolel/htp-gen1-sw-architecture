@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notification Manager"
+    id="0e47bedf-201f-411f-b451-2d276afd4cb6">
+  <properties
+      key="TYPE"
+      value="MANAGER"/>
+</archimate:ApplicationComponent>

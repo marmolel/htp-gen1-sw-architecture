@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Workflow Manager"
+    id="1af85c5e-d40d-465d-984f-54e7da130460">
+  <properties
+      key="TYPE"
+      value="MANAGER"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ACAP Manager"
+    id="ffece56a-19ee-4882-9bab-412749555c5f">
+  <properties
+      key="TYPE"
+      value="MANAGER"/>
+</archimate:ApplicationComponent>

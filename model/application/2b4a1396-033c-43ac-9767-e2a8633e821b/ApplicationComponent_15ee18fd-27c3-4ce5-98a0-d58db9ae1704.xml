@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Results (BAM file)"
+    id="15ee18fd-27c3-4ce5-98a0-d58db9ae1704">
+  <properties
+      key="TYPE"
+      value="RESOURCE"/>
+</archimate:ApplicationComponent>

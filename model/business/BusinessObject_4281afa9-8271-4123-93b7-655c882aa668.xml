@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorization Manager"
+    id="4281afa9-8271-4123-93b7-655c882aa668">
+  <properties
+      key="CLIENT"
+      value="Technician GUI"/>
+</archimate:BusinessObject>

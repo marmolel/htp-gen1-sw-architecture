@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Caregiver Access"
+    id="425f46c7-9481-498a-8264-624488d15bd4">
+  <properties
+      key="TYPE"
+      value="RESOURCE ACCESS"/>
+</archimate:ApplicationComponent>

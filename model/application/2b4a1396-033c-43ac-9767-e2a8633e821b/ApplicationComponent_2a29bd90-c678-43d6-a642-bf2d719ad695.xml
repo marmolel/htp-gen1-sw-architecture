@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Result"
+    id="2a29bd90-c678-43d6-a642-bf2d719ad695">
+  <properties
+      key="TYPE"
+      value="RESOURCE"/>
+</archimate:ApplicationComponent>

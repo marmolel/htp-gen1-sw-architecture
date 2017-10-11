@@ -1,0 +1,15 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="+"
+    id="c44a77f6-90b5-452a-b541-227b735f9445">
+  <properties
+      key="PROTOCOL"
+      value="Web Socket based &quot;push&quot;"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0e47bedf-201f-411f-b451-2d276afd4cb6.xml#0e47bedf-201f-411f-b451-2d276afd4cb6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_1af9c154-942f-426b-ae08-37f056bc09c6.xml#1af9c154-942f-426b-ae08-37f056bc09c6"/>
+</archimate:FlowRelationship>

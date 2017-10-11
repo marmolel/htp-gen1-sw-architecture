@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Admin GUI"
+    id="b1e73811-de02-4891-9d5a-0610adce3992">
+  <properties
+      key="TYPE"
+      value="CLIENT"/>
+  <properties
+      key="CONTEXT"
+      value="R&amp;D, PRODUCTION"/>
+</archimate:ApplicationComponent>

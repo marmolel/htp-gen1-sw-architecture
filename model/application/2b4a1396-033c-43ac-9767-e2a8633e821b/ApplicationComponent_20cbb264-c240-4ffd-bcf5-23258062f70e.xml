@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintenance Schedules"
+    id="20cbb264-c240-4ffd-bcf5-23258062f70e">
+  <properties
+      key="TYPE"
+      value="RESOURCE"/>
+</archimate:ApplicationComponent>

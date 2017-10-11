@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NSA Manager"
+    id="d835029c-2fc1-443f-b38c-0a7f9c72daa0">
+  <properties
+      key="TYPE"
+      value="RESOURCE"/>
+</archimate:ApplicationComponent>

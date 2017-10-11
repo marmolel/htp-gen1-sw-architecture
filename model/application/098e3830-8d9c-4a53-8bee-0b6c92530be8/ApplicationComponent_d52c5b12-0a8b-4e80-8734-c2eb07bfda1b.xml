@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validation Engine"
+    id="d52c5b12-0a8b-4e80-8734-c2eb07bfda1b">
+  <properties
+      key="TYPE"
+      value="MANAGER"/>
+</archimate:ApplicationComponent>

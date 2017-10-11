@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Maintenance Access"
+    id="bee03f2c-c047-461f-a219-fdabf0661b58">
+  <properties
+      key="TYPE"
+      value="RESOURCE ACCESS"/>
+</archimate:ApplicationComponent>

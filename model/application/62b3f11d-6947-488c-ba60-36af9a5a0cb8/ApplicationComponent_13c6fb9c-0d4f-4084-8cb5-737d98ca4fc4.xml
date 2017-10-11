@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LIS Adapter"
+    id="13c6fb9c-0d4f-4084-8cb5-737d98ca4fc4">
+  <properties
+      key="TYPE"
+      value="CLIENT"/>
+  <properties
+      key="CONTEXT"
+      value="R&amp;D, PRODUCTION"/>
+</archimate:ApplicationComponent>

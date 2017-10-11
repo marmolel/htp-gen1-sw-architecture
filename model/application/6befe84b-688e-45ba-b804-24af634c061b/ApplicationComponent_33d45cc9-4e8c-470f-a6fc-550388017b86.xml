@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recipe Access"
+    id="33d45cc9-4e8c-470f-a6fc-550388017b86">
+  <properties
+      key="TYPE"
+      value="RESOURCE ACCESS"/>
+</archimate:ApplicationComponent>

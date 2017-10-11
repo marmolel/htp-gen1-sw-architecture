@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technician GUI"
+    id="1af9c154-942f-426b-ae08-37f056bc09c6">
+  <properties
+      key="TYPE"
+      value="CLIENT"/>
+  <properties
+      key="CONTEXT"
+      value="PRODUCTION"/>
+</archimate:ApplicationComponent>

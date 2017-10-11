@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Users"
+    id="878cfbe5-49a2-4453-9618-8d5bd9f4e589"
+    documentation="run metrics">
+  <properties
+      key="TYPE"
+      value="RESOURCE"/>
+</archimate:ApplicationComponent>

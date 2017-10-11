@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FSM Driver"
+    id="28f54da0-f9d1-4239-8b85-3287f996cf78">
+  <properties
+      key="TYPE"
+      value="UTILITY"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LIMS Access"
+    id="8bafebf5-4447-4945-a9d5-b304defa3bad">
+  <properties
+      key="TYPE"
+      value="RESOURCE ACCESS"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instrumentation"
+    id="1c7035c6-0cc5-43a9-9be8-ed3a8c3a6f4e">
+  <properties
+      key="TYPE"
+      value="UTILITY"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integration Manager"
+    id="5fa76819-8867-4cbf-a5a4-17e26db30514">
+  <properties
+      key="TYPE"
+      value="MANAGER"/>
+</archimate:ApplicationComponent>

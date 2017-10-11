@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NSE Interface"
+    id="5b3e75f1-6dbf-4412-9953-0d20cf90c00b">
+  <properties
+      key="TYPE"
+      value="UTILITY"/>
+</archimate:ApplicationComponent>

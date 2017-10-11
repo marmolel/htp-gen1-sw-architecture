@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging"
+    id="c08841ed-4033-4ddf-9ec7-1cb6a9a25cf1">
+  <properties
+      key="TYPE"
+      value="UTILITY"/>
+</archimate:ApplicationComponent>

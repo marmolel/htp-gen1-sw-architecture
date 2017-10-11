@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diagnostics"
+    id="5956011a-88f0-4a94-bc10-ad23e5bab8f8">
+  <properties
+      key="TYPE"
+      value="UTILITY"/>
+</archimate:ApplicationComponent>

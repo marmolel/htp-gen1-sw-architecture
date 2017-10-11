@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FTE GUI"
+    id="80af1970-da12-48f3-a416-8afee94f099f">
+  <properties
+      key="TYPE"
+      value="CLIENT"/>
+  <properties
+      key="CONTEXT"
+      value="PRODUCTION"/>
+</archimate:ApplicationComponent>

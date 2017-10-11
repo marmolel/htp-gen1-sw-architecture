@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technician GUI"
+    id="0de0ab05-bc3c-4513-855e-0752f329083b">
+  <properties
+      key="CLIENT"
+      value="Technician GUI"/>
+</archimate:BusinessObject>

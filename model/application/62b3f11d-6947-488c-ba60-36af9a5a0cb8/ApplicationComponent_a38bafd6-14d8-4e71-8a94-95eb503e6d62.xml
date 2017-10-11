@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GCS Adapter"
+    id="a38bafd6-14d8-4e71-8a94-95eb503e6d62">
+  <properties
+      key="TYPE"
+      value="CLIENT"/>
+  <properties
+      key="CONTEXT"
+      value="PRODUCTION"/>
+</archimate:ApplicationComponent>

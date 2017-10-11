@@ -1,0 +1,11 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Researcher UI"
+    id="302a3fe4-887d-4734-b41d-bf03e0ec03c0">
+  <properties
+      key="TYPE"
+      value="CLIENT"/>
+  <properties
+      key="CONTEXT"
+      value="R&amp;D"/>
+</archimate:ApplicationComponent>
